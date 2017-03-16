@@ -9,6 +9,16 @@ A go aggregate api boilerplate that connects all your core apis
 * docker  
 * CI  
 
+### tests
+* run unit tests  
+```go test```  
+
+* generate test coverage  
+```go test -v -cover```  
+
+
+
+
 
 ## How does it work
                                                       _____________
